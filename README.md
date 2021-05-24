@@ -12,6 +12,9 @@ I recommend you go check out [my userstyles](https://jordy3d.github.io/banecss) 
 Recently, I have been working on [OverPlay](https://github.com/Jordy3D/Overplay), a package for enabling transparent Unity games, as well as on [BaneVTube](https://github.com/Jordy3D/BaneVTube), a front end for [EmilianaVT's OpenSeeFace](https://github.com/emilianavt/OpenSeeFace).  
 If those projects interest you at all, feel free to give them a look!
 
+In the last 5 years, I've studied game art, game programming, graphic design, video editing, and web design, among other things.  
+While I may not be the best at anything, I'm more than willing to try and learn.
+
 <!--
 **Jordy3D/jordy3d** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
