@@ -7,7 +7,7 @@ Bane here.
 I work on a variety of things that catch my interest, or perhaps I need for a particular reason.  
 Useful packages, userstyles, shaders, gamedev, non-game software, tools to make using other software easier... You name it, I've probably touched on it a little bit.  
 
-I recommend you go check out [my userstyles](https://jordy3d.github.io/banecss) if you want to get a dark style for a site you may use; some of them have quite the number of users, mayhaps you can be among them!  
+I recommend you go check out [my userstyles](https://jordy3d.github.io/banecss) if you want to get a dark style for a site you may use; some of them have quite the number of users, mayhaps you can be among them! [My style for MAL](https://userstyles.world/style/873/al-mal) has surpassed 2.5K installs!
 
 Recently I've been working on [a video display application](https://github.com/Jordy3D/VideoIn-Out) in order to make use of certain shitty USB HDMI capture devices. I've also worked on [a video display application](https://github.com/GlitcherOG/Capture-Display) in order to make use of certain shitty USB HDMI capture devices. I've also begun developing and maintaining a bot for the Hacksmith server which started off as a way to receive YouTube notifications that differentiate between Shorts and regular videos.
 
