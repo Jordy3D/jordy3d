@@ -7,12 +7,11 @@ Bane here.
 I work on a variety of things that catch my interest, or perhaps I need for a particular reason.  
 Useful packages, userstyles, shaders, gamedev, non-game software, tools to make using other software easier... You name it, I've probably touched on it a little bit.  
 
-I recommend you go check out [my userstyles](https://jordy3d.github.io/banecss) if you want to get a dark style for a site you may use; some of them have quite the number of users, may you can be among them!  
+I recommend you go check out [my userstyles](https://jordy3d.github.io/banecss) if you want to get a dark style for a site you may use; some of them have quite the number of users, mayhaps you can be among them!  
 
-Recently, I have been working on [OverPlay](https://github.com/Jordy3D/Overplay), a package for enabling transparent Unity games, as well as on [BaneVTube](https://github.com/Jordy3D/BaneVTube), a front end for [EmilianaVT's OpenSeeFace](https://github.com/emilianavt/OpenSeeFace).  
-If those projects interest you at all, feel free to give them a look!
+Recently I've been working on [a video display application](https://github.com/Jordy3D/VideoIn-Out) in order to make use of certain shitty USB HDMI capture devices. I've also worked on [a video display application](https://github.com/GlitcherOG/Capture-Display) in order to make use of certain shitty USB HDMI capture devices. 
 
-In the last 5 years, I've studied game art, game programming, graphic design, video editing, and web design, among other things.  
+In the last 6 years, I've studied game art, game programming, graphic design, video editing, and web design, among other things.  
 While I may not be the best at anything, I'm more than willing to try and learn.
 
 <!--
