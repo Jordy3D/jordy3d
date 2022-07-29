@@ -9,7 +9,7 @@ Useful packages, userstyles, shaders, gamedev, non-game software, tools to make 
 
 I recommend you go check out [my userstyles](https://jordy3d.github.io/banecss) if you want to get a dark style for a site you may use; some of them have quite the number of users, mayhaps you can be among them!  
 
-Recently I've been working on [a video display application](https://github.com/Jordy3D/VideoIn-Out) in order to make use of certain shitty USB HDMI capture devices. I've also worked on [a video display application](https://github.com/GlitcherOG/Capture-Display) in order to make use of certain shitty USB HDMI capture devices. 
+Recently I've been working on [a video display application](https://github.com/Jordy3D/VideoIn-Out) in order to make use of certain shitty USB HDMI capture devices. I've also worked on [a video display application](https://github.com/GlitcherOG/Capture-Display) in order to make use of certain shitty USB HDMI capture devices. I've also begun developing and maintaining a bot for the Hacksmith server which started off as a way to receive YouTube notifications that differentiate between Shorts and regular videos.
 
 In the last 6 years, I've studied game art, game programming, graphic design, video editing, and web design, among other things.  
 While I may not be the best at anything, I'm more than willing to try and learn.
