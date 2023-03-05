@@ -16,6 +16,8 @@ Some of my more useful and/or ready projects include:
 - [a video display application](https://github.com/GlitcherOG/Capture-Display) in order to make use of certain shitty USB HDMI capture devices
 - [a taskbar media controller](https://github.com/Jordy3D/Taskplay), reviving a 6-ish year old application that had a few people requesting features
 - [a "working" Star Wars Crawl generator](https://jordy3d.github.io/StarWarsCrawl/) that has a larger text limit than others I found, thanks to utilising 3D objects in Unity
+- [a program that displays the state of toggle keys](https://github.com/Jordy3D/KeyLockDisplay) that helps out on devices where such states aren't shown on your keyboard
+- [a bot that interfaces with various AI APIs](https://github.com/Jordy3D/LambdaBot) that brings ElevenLabs and OpenAI tools to the world of Discord
 
 In the last 6 years, I've studied game art, game programming, graphic design, video editing, and web design, among other things.  
 While I may not be the best at anything, I'm more than willing to try and learn.
