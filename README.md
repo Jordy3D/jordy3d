@@ -1,6 +1,8 @@
-| | |
-|-|-|
-<img src="https://user-images.githubusercontent.com/19144524/119286651-3672cf00-bc88-11eb-9110-b539b8bca301.png" height=100px width=100px> | //games.art.stuff
+<p align="center">
+    <img width=100 height=100 src="https://user-images.githubusercontent.com/19144524/119286651-3672cf00-bc88-11eb-9110-b539b8bca301.png">
+    <br/>
+    //games.art.stuff
+</p>
 
 Bane here.  
 
